@@ -2,8 +2,10 @@
 
 Proyecto Spring Boot con las dependencias/starters:
     
+Starters para Persistencia (almacenamiento en bd de la informacion): 
 * H2
 * Spring Data JPA
+Starters para web:
 * Spring Web
 * Spring Boot DevTools
 
